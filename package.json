@@ -1,0 +1,15 @@
+{
+  "name": "adding_marks",
+  "version": "1.0.0",
+  "description": "adding marks",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "bundle": "browserify script.js -o bundle.js"
+  },
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "browsify": "^0.0.4",
+    "xlsx": "^0.18.5"
+  }
+}
