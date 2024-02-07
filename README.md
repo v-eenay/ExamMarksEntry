@@ -2,7 +2,7 @@
 
 ## Overview
 
-Hey there! So, I'm Vinay, your resident IT lecturer from Itahari, Nepal. Feeling a bit bored today, so I thought I'd jot down some thoughts.
+Hey there! So, I'm Vinay from Itahari, Nepal. Feeling a bit bored today.
 
 ## Key Features (or lack thereof)
 
